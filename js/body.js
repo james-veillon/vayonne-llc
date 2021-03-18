@@ -1,7 +1,7 @@
 /* CONSTANTS */
 
 var HEADER_1 = "Just Call James!";
-var HEADER_2_STANDARD = "&nbsp; &nbsp;Commercial / Residential Maintenance and Upgrades";
+var HEADER_2_STANDARD = "&nbsp; &nbsp;Residential Maintenance and Upgrades";
 var HEADER_2_MOBILE = "&nbsp; &nbsp;Maintenance and Upgrades";
 
 /*
